@@ -1,0 +1,20 @@
+{
+  "shingle_size": 2,
+  "threshold_percent": 70,
+  "weights": {"train": 60, "validation": 20, "test": 20},
+  "seed": 42,
+  "documents": [
+    {"id": "topic-0-a", "text": "volcano magma crater basalt ash lava eruption tectonic plume", "group": null},
+    {"id": "topic-0-b", "text": "VOLCANO MAGMA CRATER BASALT ASH LAVA ERUPTION TECTONIC PLUME!", "group": null},
+    {"id": "topic-1-a", "text": "violin bow string concert orchestra melody rhythm harmony acoustic", "group": null},
+    {"id": "topic-1-b", "text": "VIOLIN BOW STRING CONCERT ORCHESTRA MELODY RHYTHM HARMONY ACOUSTIC!", "group": null},
+    {"id": "topic-2-a", "text": "ocean reef coral fish tide current marine lagoon salinity", "group": null},
+    {"id": "topic-2-b", "text": "OCEAN REEF CORAL FISH TIDE CURRENT MARINE LAGOON SALINITY!", "group": null},
+    {"id": "topic-3-a", "text": "database transaction index query schema rollback commit isolation cursor", "group": null},
+    {"id": "topic-3-b", "text": "DATABASE TRANSACTION INDEX QUERY SCHEMA ROLLBACK COMMIT ISOLATION CURSOR!", "group": null},
+    {"id": "topic-4-a", "text": "garden tulip soil seed petal sunlight watering compost fertilizer", "group": null},
+    {"id": "topic-4-b", "text": "GARDEN TULIP SOIL SEED PETAL SUNLIGHT WATERING COMPOST FERTILIZER!", "group": null},
+    {"id": "topic-5-a", "text": "satellite orbit antenna telemetry launch payload spacecraft altitude navigation", "group": null},
+    {"id": "topic-5-b", "text": "SATELLITE ORBIT ANTENNA TELEMETRY LAUNCH PAYLOAD SPACECRAFT ALTITUDE NAVIGATION!", "group": null}
+  ]
+}
